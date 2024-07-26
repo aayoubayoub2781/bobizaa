@@ -33,7 +33,7 @@ const defaultMenu = {
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
   footer: '┗━━━━━━━━⬣\n',
-  after: '*instagram.com/_ayoub_x5*',
+  after: '*https://whatsapp.com/channel/0029VaiJnhbD38CbP5YcSK0K*',
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
