@@ -10,8 +10,8 @@ let tags = {
   'ai':'‎ الذكاء الاصطناعي‎ أوامر',
   'infobot':'‎ معلومات البوت‎',
   'downloader':'‎ أوامر التحميلات',
-  'anime':'‎ أوامر عن  الأنيم',
-  'islam':'‎ الدين هو الاسلام‎',
+  'anime':'‎الأنيم',
+  'islam':'‎الاسلام‎',
   'owner':'‎ اوامر صاحب البوت',
   'search':'‎ أوامر البحث',
   'audio-changer':'‎ تعديل الصوتيات‎',
@@ -28,12 +28,12 @@ const defaultMenu = {
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *B O B I Z A | M E N U*
+  ≡ *JEEN-MD | M E N U*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
   footer: '┗━━━━━━━━⬣\n',
-  after: '*إستخدامك للبوت بشكل صحيح يعني أنك تزيد من إحتمالية أن يبقى البوت شغالا لمدة أطول . لذا إن واجهتك أي مشكلة لا تخجل من سؤال صاحب البوت .رقمه سوف تجده في الأسفل + شارك فيديوهات صاحب البوت تشجيعا له ان كان هذا البوت قد نال إعجابك*\n+212717457920',
+  after: '*instagram.com/_ayoub_x5*',
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
@@ -136,10 +136,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'BOBIZA BOT ♥',
-body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+title: 'JEEN-MD 🦅',
+body: "أول بوت واتساب بتقنيات متطورة",
+thumbnailUrl: 'https://telegra.ph/file/41d94a398196d36958834.jpg',
+sourceUrl: 'instagram.com/majnon._.98',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
