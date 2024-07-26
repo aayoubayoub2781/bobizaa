@@ -20,18 +20,18 @@ ${usedPrefix + command} FACEBOOK`
   conn.sendMessage(m.chat, {text: bing, contextInfo:
 					{
 	"externalAdReply": {
-							"title": 'BOBIZA BING SEARCHING',
+							"title": 'JEEN BING SEARCHING',
 							"body": '',
 							"showAdAttribution": true,
 							"mediaType": 1,
 							"sourceUrl": '',
-							"thumbnailUrl": 'https://telegra.ph/file/3a22a7e5574face2c6eca.png',
+							"thumbnailUrl": 'https://telegra.ph/file/41d94a398196d36958834.jpg',
 							"renderLargerThumbnail": true
 
 						}
 					}}, {quoted: m})
 					}).catch(err => {
-					m.reply('حذث خطأ حاول لاحقا او راسل\ninstagram.com/noureddine_ouafy')
+					m.reply('حذث خطأ حاول لاحقا او راسل')
 					})
 }
 handler.help = ['bingsearch']
