@@ -968,7 +968,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 370,
+      "exp": 574,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -1312,7 +1312,7 @@
       "psepick": 0,
       "robo": 0,
       "roboxp": 0,
-      "lastCommandTime": 1721992438161,
+      "lastCommandTime": 1721992905032,
       "commandCount": 1
     },
     "212671648947@s.whatsapp.net": {
@@ -1407,7 +1407,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 298,
+      "exp": 362,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -1846,7 +1846,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 12,
+      "exp": 55,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -2267,6 +2267,31 @@
       "modoadmin": false,
       "simi": false,
       "expired": 0
+    },
+    "212696262219@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detect2": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antidelete": false,
+      "modohorny": true,
+      "autosticker": false,
+      "audios": true,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "antiArab2": false,
+      "antiporno": false,
+      "modoadmin": false,
+      "simi": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -2277,10 +2302,10 @@
       "lastSuccess": 1701250820440
     },
     "menu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1721992438163,
-      "lastSuccess": 1721992438163
+      "total": 4,
+      "success": 4,
+      "last": 1721992599419,
+      "lastSuccess": 1721992599419
     },
     "exec2.js": {
       "total": 2,
@@ -2317,6 +2342,18 @@
       "success": 0,
       "last": 1721990149258,
       "lastSuccess": 0
+    },
+    "ai-apk.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1721992644571,
+      "lastSuccess": 1721992644571
+    },
+    "sticker (1).js": {
+      "total": 2,
+      "success": 2,
+      "last": 1721992905033,
+      "lastSuccess": 1721992905033
     }
   },
   "msgs": {},
