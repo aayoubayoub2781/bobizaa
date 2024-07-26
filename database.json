@@ -1407,7 +1407,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 362,
+      "exp": 371,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -2372,6 +2372,18 @@
       "modoia": false
     },
     "212696262219@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "autoread2": false,
+      "restrict": false,
+      "antiCall": false,
+      "antiPrivate": false,
+      "modejadibot": true,
+      "antispam": false,
+      "audios_bot": true,
+      "modoia": false
+    },
+    "212671648947@s.whatsapp.net": {
       "self": false,
       "autoread": false,
       "autoread2": false,
