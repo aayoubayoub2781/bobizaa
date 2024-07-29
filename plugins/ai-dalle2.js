@@ -4,7 +4,7 @@ var handler = async (m, {conn, text, usedPrefix, command}) => {
 
 if (!text) return conn.reply(m.chat, `*🎌 Ingrese un texto para crear una imagen*\n\nEjemplo, !dall2 gatitos llorando`, m, fake, )
 
-conn.reply(m.chat, '⏰ Espere un momento', m, fake, )
+conn.reply(m.chat, '⏰ Espere un momento', m, )
 
 try {
 
