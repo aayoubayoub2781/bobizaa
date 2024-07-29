@@ -7,7 +7,7 @@ let handler = async (_0x12fe9b, {
   command: _0x495cb4
 }) => {
   if (!_0x2100ef) {
-    return _0x12fe9b.reply("هذا الامر خاص بالسؤال . يمكنك ان تسأل الذكاء الاصطناعي\nمثال:\n\n *.chawnyma* hello");
+    return _0x12fe9b.reply("هذا الامر خاص بالسؤال . يمكنك ان تسأل الذكاء الاصطناعي\nمثال:\n\n *.chatgpt* hello");
   }
   await _0x12fe9b.reply(wait);
   try {
@@ -17,9 +17,9 @@ let handler = async (_0x12fe9b, {
     await _0x12fe9b.reply("error");
   }
 };
-handler.help = ["Chatgpt"];
+handler.help = ["chatgpt"];
 handler.tags = ["ai"];
-handler.command = /^(Chatgpt)$/i;
+handler.command = /^(chatgpt)$/i;
 export default handler;
 async function fetchCompletion(_0x319f1a) {
   try {
