@@ -9,7 +9,7 @@ const handler = async (m, {conn}) => {
 
 ▢ morocco     : ${tzAF}
   ${String.fromCharCode(8206).repeat(850)}
-  ▢ instagram.com/noureddine_ouafy`}, {quoted: m});
+  ▢ https://whatsapp.com/channel/0029VaiJnhbD38CbP5YcSK0K`}, {quoted: m});
   };
 handler.help = ["tz"]
 handler.tags = ["infobot"]
